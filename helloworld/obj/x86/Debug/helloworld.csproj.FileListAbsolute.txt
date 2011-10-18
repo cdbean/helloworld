@@ -1,0 +1,5 @@
+E:\code\helloworld\helloworld\bin\Debug\helloworld.exe
+E:\code\helloworld\helloworld\bin\Debug\helloworld.pdb
+E:\code\helloworld\helloworld\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\code\helloworld\helloworld\obj\x86\Debug\helloworld.exe
+E:\code\helloworld\helloworld\obj\x86\Debug\helloworld.pdb
